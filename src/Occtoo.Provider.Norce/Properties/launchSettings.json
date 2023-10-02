@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Occtoo.Provider.Norce": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7193",
+      "launchBrowser": false
+    }
+  }
+}
